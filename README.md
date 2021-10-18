@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Why hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/Hoptilic">
   <img align="left" alt="Hoptilic | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -6,7 +6,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hoptilic)
 
-My name is Hoptilic and I'm a Developer who is passionate about building apps, software and learning new technologies.
+My name is Hoptilic, and I'm a developer who is passionate about building applications, software and learning new technologies.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -23,11 +23,11 @@ My name is Hoptilic and I'm a Developer who is passionate about building apps, s
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoptilic&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoptilic&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
 
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoptilic&theme=radical" alt="adamatomus" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hoptilic&theme=radical" alt="Hoptilic" /></p>
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hoptilic&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hoptilic&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
