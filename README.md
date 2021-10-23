@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/hoptilic" target="blank"><img src="https://img.shields.io/twitter/follow/hoptilic?logo=twitter&style=for-the-badge" alt="hoptilic" /></a> </p>
 
-- 🔭 I’m currently working on [Vlady's Network](https://vladysnetwork.online)
+- 🔭 I’m currently working on [Vlady's Network](https://vladysnetwork.online).
 
-- 📫 How to reach me **misterhoptilic@gmail.com**
+- 📫 How to reach me: **misterhoptilic@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
