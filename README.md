@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-stats-nine-topaz.vercel.app/api/top-langs?username=hoptilic&show_icons=true&theme=transparent&locale=en&layout=compact" alt="hoptilic" /></p>
 
-<p>&nbsp;<img align="center" src="github-stats-nine-topaz.vercel.app/api?username=hoptilic&show_icons=true&theme=transparent" alt="hoptilic" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-nine-topaz.vercel.app/api?username=hoptilic&show_icons=true&theme=transparent" alt="hoptilic" /></p>
 
-<p><img align="center" src="github-stats-nine-topaz.vercel.app/?user=hoptilic&theme=transparent" alt="hoptilic" /></p>
+<p><img align="center" src="https://github-stats-nine-topaz.vercel.app/?user=hoptilic&theme=transparent" alt="hoptilic" /></p>
