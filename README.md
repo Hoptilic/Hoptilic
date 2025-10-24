@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-stats-nine-topaz.vercel.app/api?username=hoptilic&show_icons=true&theme=transparent" alt="hoptilic" /></p>
 
-<p><img align="center" src="https://github-stats-nine-topaz.vercel.app/?user=hoptilic&theme=transparent" alt="hoptilic" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoptilic&theme=transparent" alt="hoptilic" /></p>
