@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoptilic&label=Views&color=000000&style=flat" alt="hoptilic" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hoptilic" target="blank"><img src="https://img.shields.io/twitter/follow/hoptilic?logo=twitter&style=for-the-badge" alt="hoptilic" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hoptilic" target="blank"><img src="https://img.shields.io/twitter/follow/hoptilic?logo=twitter&style=for-the-badge" alt="hoptilic twitter" /></a> </p>
 
 - 📫 How to reach me: **misterhoptilic@gmail.com**
 
