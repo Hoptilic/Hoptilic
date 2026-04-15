@@ -1,6 +1,8 @@
 <div align="center">
 
-# hi, i'm hoptilic 👾
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hi%2C+i'm+hoptilic.;i+build+things.;let's+collaborate." alt="Typing SVG" />
+</div>
 
 **developer · builder · always learning**
 
