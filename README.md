@@ -1,24 +1,64 @@
-<h1 align="center">Hi 👋, I'm Hoptilic</h1>
-<h3 align="center">My name is Hoptilic, and I'm a developer who is passionate about building applications, software and learning new technologies.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoptilic&label=Views&color=000000&style=flat" alt="hoptilic" /> </p>
+# hi, i'm hoptilic 👾
 
-<p align="left"> <a href="https://twitter.com/hoptilic" target="blank"><img src="https://img.shields.io/twitter/follow/hoptilic?logo=twitter&style=for-the-badge" alt="hoptilic twitter" /></a> </p>
+**developer · builder · always learning**
 
-- 📫 How to reach me: **misterhoptilic@gmail.com**
+[![Twitter](https://img.shields.io/badge/-@hoptilic-000?style=flat&logo=x&logoColor=white)](https://twitter.com/hoptilic)
+[![YouTube](https://img.shields.io/badge/-hoptilic-000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/hoptilic)
+[![Discord](https://img.shields.io/badge/-hoptilic%237676-000?style=flat&logo=discord&logoColor=white)](https://discord.gg/hoptilic)
+[![Email](https://img.shields.io/badge/-misterhoptilic@gmail.com-000?style=flat&logo=gmail&logoColor=white)](mailto:misterhoptilic@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hoptilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoptilic" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hoptilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hoptilic" height="30" width="40" /></a>
-<a href="https://discord.gg/hoptilic#7676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hoptilic#7676" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-stats-nine-topaz.vercel.app/api/top-langs?username=hoptilic&show_icons=true&theme=tokyonight&locale=en&layout=compact&include_all_commits=true" alt="hoptilic" /></p>
+### about
 
-<p>&nbsp;<img align="center" src="https://github-stats-nine-topaz.vercel.app/api?username=hoptilic&show_icons=true&theme=tokyonight&include_all_commits=true" alt="hoptilic" /></p>
+passionate about building applications, software, and picking up new technologies along the way. i work across the full stack and enjoy jumping into game dev with Unity when the mood strikes.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoptilic&theme=tokyonight" alt="hoptilic" /></p>
+```
+focus     →  full-stack apps · game development
+stack     →  C# · Node.js · React · Python
+contact   →  misterhoptilic@gmail.com
+```
+
+---
+
+### languages & tools
+
+![C#](https://img.shields.io/badge/C%23-000?style=flat&logo=csharp)
+![C++](https://img.shields.io/badge/C++-000?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk)
+![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express)
+![Electron](https://img.shields.io/badge/Electron-000?style=flat&logo=electron)
+![.NET](https://img.shields.io/badge/.NET-000?style=flat&logo=dotnet)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb)
+![Nginx](https://img.shields.io/badge/Nginx-000?style=flat&logo=nginx)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=bootstrap)
+![Unity](https://img.shields.io/badge/Unity-000?style=flat&logo=unity)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
+![Photoshop](https://img.shields.io/badge/Photoshop-000?style=flat&logo=adobephotoshop)
+
+---
+
+### stats
+
+<div align="center">
+
+<img height="160" src="https://github-stats-nine-topaz.vercel.app/api?username=hoptilic&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000" />
+<img height="160" src="https://github-stats-nine-topaz.vercel.app/api/top-langs?username=hoptilic&show_icons=true&theme=tokyonight&locale=en&layout=compact&include_all_commits=true&hide_border=true&bg_color=00000000" />
+
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=hoptilic&theme=tokyonight&hide_border=true&background=00000000" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>profile views: <img src="https://komarev.com/ghpvc/?username=hoptilic&label=&color=000000&style=flat" alt="views" /></sub>
+</div>
